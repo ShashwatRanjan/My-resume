@@ -3,3 +3,13 @@
     border: 1px solid #eee;
     box-shadow: 2px 2px 2px -1px #eee;
 }
+
+.table{
+    alignment:left;
+    border: 2px solid black;
+    border-collapse: collapse;
+th, td {
+    border-bottom: 1px solid #3c64dd;
+}
+
+}
